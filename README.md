@@ -21,5 +21,5 @@ HTTP and either RDP or SSH
 
 # Deliverables
 
-- http://<EIP>/screen-shot1.png
-- http://<EIP>/screen-shot2.png
+- http://< EIP >/screen-shot1.png
+- http://< EIP >/screen-shot2.png
